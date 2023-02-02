@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://en.pronouns.page/@anettelavol" ref="me">Pronouns</a>
+<a rel="me" href="https://en.pronouns.page/@anettelavol">Pronouns</a>
+<a rel="me" href="https://tech.lgbt/@anettera">Mastodon</a>
