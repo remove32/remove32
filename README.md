@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a rel="me" href="https://en.pronouns.page/@anettelavol">Pronouns</a>
+<br>
 <a rel="me" href="https://tech.lgbt/@anettera">Mastodon</a>
